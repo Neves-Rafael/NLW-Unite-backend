@@ -2,17 +2,17 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "Unite Summittta",
-  "details": "Um evento sobre tecnologia",
-  "maximumAttendees": 100
+  "title": "New event",
+  "details": "É novo",
+  "maximumAttendees": 1
 }
 
 ###
 
-POST http://localhost:3333/events/79b5f7fc-5d22-4a95-9aca-bd92c13463dd/attendees
+POST http://localhost:3333/events/3f8b949f-51d5-4920-8cd1-d05e232292d4/attendees
 Content-Type: application/json
 
 {
   "name": "Rafael Neves",
-  "email": "rafael@gmail.com"
+  "email": "rafael3s@gmail.com"
 }
