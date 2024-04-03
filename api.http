@@ -2,7 +2,7 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "Unite Summit",
+  "title": "Unite Summittt",
   "details": "Um evento sobre tecnologia",
   "maximumAttendees": 100
 }
