@@ -16,3 +16,7 @@ Content-Type: application/json
   "name": "Rafael Neves",
   "email": "rafael3s@gmail.com"
 }
+
+###
+
+GET http://localhost:3333/events/3f8b949f-51d5-4920-8cd1-d05e232292d4
